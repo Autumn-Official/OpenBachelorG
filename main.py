@@ -8,7 +8,7 @@ import re
 
 from tkinter.filedialog import askopenfilename
 
-APK_FILEPATH = "arknights-hg-2506.apk"
+APK_FILEPATH = "arknights-hg-2961.apk"
 DECODED_APK_DIRPATH = "ak"
 BUILT_APK_FILEPATH = "ak-g-unsigned.apk"
 SIGNED_APK_DIRPATH = "ak-g-apk"

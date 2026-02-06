@@ -27,3 +27,9 @@ Discord: [https://discord.gg/W4yPMpBv8F](https://discord.gg/W4yPMpBv8F)
 
 1. Patched apk is placed inside folder `ak-g-apk`.
 
+
+### 关于模拟器支持
+
+将main.py的FRIDA_VERSION修改为16.6.6即可
+
+
